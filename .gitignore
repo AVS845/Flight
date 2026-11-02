@@ -1,0 +1,72 @@
+# =========================================================================
+# Unity Generated Folders & Files
+# =========================================================================
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+
+# =========================================================================
+# Asset & Package Management Caches
+# =========================================================================
+# Asset cache and Addressables generated files
+/Assets/AssetStoreTools*
+/Assets/AddressableAssetsData/*
+!/Assets/AddressableAssetsData/config.json
+/Assets/StreamingAssets/aa/*
+/Assets/Unity.VisualScripting.Generated/
+/Assets/SceneDependencyCache*
+
+# =========================================================================
+# IDE & System Specific Files
+# =========================================================================
+# Visual Studio / Rider / VS Code solutions and caches
+[Cc]ubism[Cc]ache.json
+/[Vv]isual[Ss]tudio[Cc]ode[Zz]ip/
+.vs/
+.gradle/
+ExportedObj/
+.consulo/
+.idea/
+*.sln
+*.csproj
+*.unityproj
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svuid
+*.workspace
+*~
+
+# =========================================================================
+# Build Artifacts & OS Files
+# =========================================================================
+# Compiled outputs
+*.apk
+*.aab
+*.unitypackage
+*.app
+*.bin
+*.db
+
+# Crash logs and diagnostic reports
+sysinfo.txt
+mono_crash.*
+crashlytics-build.properties
+
+# OS-specific overrides
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
